@@ -150,6 +150,7 @@ extra_css:
   - assets/stylesheets/extra.css
 
 nav:
+  - Tetris Game: tetris.game/index.html
   - Início: index.md
   - Pré-requisitos: prerequisites.md
   - Exercícios:
